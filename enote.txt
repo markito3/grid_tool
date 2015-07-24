@@ -1,0 +1,1 @@
+./extract_file_info_grid.pl < ls-l_from_UConn_2014-04-19.txt | mysql -hhalldweb1 -ufarmer farming
